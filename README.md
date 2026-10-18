@@ -11,6 +11,18 @@
 
 <br/>
 
+### `$ pacman --eat commits`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
 ### `$ whoami`
 
 ```ts
@@ -57,14 +69,12 @@ const tanu = {
   <img width="100%" src="https://raw.githubusercontent.com/saini16tanu/saini16tanu/main/profile-3d-contrib/profile-custom.svg" alt="3D contribution calendar" />
 </p>
 
-### `$ pacman --eat commits`
+<br/>
+
+### `$ ./mochi --eat commits`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/pacman-contribution-graph-dark.svg" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/saini16tanu/saini16tanu/output/cat-walk.svg" alt="A coder cat walking over my contribution calendar" />
 </p>
 
 <br/>
