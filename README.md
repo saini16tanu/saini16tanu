@@ -91,13 +91,6 @@
 
 <br/>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saini16tanu&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=7C3AED&hide_border=true&radius=8" alt="Activity graph" />
-</p>
-
 <!-- ===================== 3D CALENDAR ===================== -->
 <h2 align="center">🧊 3D Contribution Calendar</h2>
 
@@ -128,13 +121,6 @@
 </p>
 
 <br/>
-
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saini16tanu&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</p>
 
 <!-- ===================== QUOTE ===================== -->
 <h2 align="center">✍️ Dev Quote of the Day</h2>
