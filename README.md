@@ -37,7 +37,7 @@
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Woman%20Technologist.png" width="170" alt="Coding" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="170" alt="Coding" />
 
 </td>
 </tr>
